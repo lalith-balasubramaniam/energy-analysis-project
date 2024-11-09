@@ -38,5 +38,5 @@ The analysis revealed that:
 Below is an example visualization from the project:
 ![CO2 Emissions by Region and Fuel Source](images/co2_emissions.png)
 
-## Author
-[Lalith Balasubramaniam](https://www.linkedin.com/in/lalithbalasubramaniam/)
+## Licenses
+The dataset was provided by Datacamp
